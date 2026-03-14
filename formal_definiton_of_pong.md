@@ -21,10 +21,8 @@ Where $X_t$ contains all of data pertinent to the state of the game and $D_t$ de
 $$
 X_t = 
 \begin{bmatrix}
-x_{P1,t} \\
 y_{P1,t} \\
 x_{P2,t} \\
-y_{P2,t} \\
 x_{B,t} \\
 y_{B,t} \\
 v_{x,t} \\
@@ -32,9 +30,7 @@ v_{y,t} \\
 \end{bmatrix}
 = 
 \begin{bmatrix}
-\text{paddle 1 $x$ position} \\
 \text{paddle 1 $y$ position} \\
-\text{paddle 2 $x$ position} \\
 \text{paddle 2 $y$ position} \\
 \text{ball $x$ position} \\
 \text{ball $y$ position} \\
