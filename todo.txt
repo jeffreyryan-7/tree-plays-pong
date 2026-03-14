@@ -1,0 +1,4 @@
+ - Install and view Oracle model
+ - Develop scoring regime
+ - Develop tree infrastructure 
+ - Invent stump construction algorithm 

@@ -16,7 +16,7 @@ After a round has started, pong can be modeled with the following structure:
 
 $$X_t \ \& \ D_t = X_{t+1}$$
 
-Where $X_t$ contains all of data pertinent to the state of the game and $D_t$ describes the choices made by the players at time $t$. In pong, this relationship is deterministic and can be perfectly modeled !!!is this true for paddle strikes?!!!. They are defined as follows:
+Where $X_t$ contains all of data pertinent to the state of the game and $D_t$ describes the choices made by the players at time $t$. In pong, this relationship is deterministic and can be perfectly modeled. They are defined as follows:
 
 $$
 X_t = 
